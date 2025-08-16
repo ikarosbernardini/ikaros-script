@@ -1,3 +1,5 @@
+Hej
+
 # ikaros-script
 
 Ett enkelt Python-script som skriver ut ett meddelande till Fredrik.
