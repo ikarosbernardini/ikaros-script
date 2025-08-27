@@ -10,4 +10,4 @@ def Count():
 
 # Call the function
 Count()
-greet("name")
+greet()
