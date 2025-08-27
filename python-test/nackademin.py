@@ -8,6 +8,7 @@ def Count():
     for i in range(1, 11):
         print(i)
 
-# Call the function
+# kallar på funktion
 Count()
 greet()
+print("Hej Lowe!")
